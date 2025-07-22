@@ -1,5 +1,5 @@
 ## Overview
-Built a fully serverless personal website on AWS, demonstrating real-world use of cloud-native architecture with services like S3, Lambda, and API Gateway, and automated deployment using Terraform and CI/CD.
+Built a fully serverless personal website on AWS, demonstrating real-world use of cloud-native architecture with AWS services (i.e. S3, CloudFront, Route 53, ACM, Lambda, DynamoDB and API Gateway),  and automated deployment using Terraform.
 
 ## Features
 ✔  Static Website Hosting with Amazon S3
